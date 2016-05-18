@@ -1,1 +1,1 @@
-export { default as Atomic } from './lib/atomic';
+export { default as Radon } from './lib/radon';
