@@ -1,0 +1,1 @@
+export { default as Atomic } from './lib/atomic';
